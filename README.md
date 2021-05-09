@@ -4,6 +4,7 @@ Predicting the Pedestrian Traffic Using PySpark
 In this project we would be using the following architectures:
 1. For the Model building process:<br><br>
 ![This is the architecture followed for the model building process](/pedestrian-traffic-spark/flow.PNG)
+<br><br>
 
 2. For the real-time modelling and visualization process:<br><br>
 ![This is the architecture followed for the Real-Time prediction and visualization project](pedestrian-traffic-spark-streaming/flow.PNG)
